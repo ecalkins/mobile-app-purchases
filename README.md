@@ -9,5 +9,5 @@ As part of the project, the class competed in a private Kaggle competition. Our 
 ## Important Links
  - [Exploratory data analysis](https://github.com/ecalkins/mobile-app-purchases/blob/master/eda_events%2Bsessions.ipynb)
  - [Target label creation](https://github.com/ecalkins/mobile-app-purchases/blob/master/compute_target.ipynb)
- - [Final ML modeling notebook](https://github.com/ecalkins/mobile-app-purchases/blob/master/ml_models_final.ipynb_
+ - [Final ML modeling notebook](https://github.com/ecalkins/mobile-app-purchases/blob/master/ml_models_final.ipynb)
  - [Seminar presentation](https://github.com/ecalkins/mobile-app-purchases/blob/master/mobile_app_purchases_presentation.pdf)
