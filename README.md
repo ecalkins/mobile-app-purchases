@@ -7,7 +7,7 @@ For USF's Advanced Machine Learning class final project, an industry partner pro
 As part of the project, the class competed in a private Kaggle competition. Our team won the competition with a private leaderboard score of 0.971. As a result, we were given the opportunity to present our project at the USF Data Institute's Weekly Seminar.
 
 ## Important Links
- - Target label creation: https://github.com/ecalkins/mobile-app-purchases/blob/master/compute_target.ipynb
- - EDA: https://github.com/ecalkins/mobile-app-purchases/blob/master/eda_events%2Bsessions.ipynb
- - Final ML modeling notebook: https://github.com/ecalkins/mobile-app-purchases/blob/master/ml_models_final.ipynb
- - Seminar presentation: https://github.com/ecalkins/mobile-app-purchases/blob/master/mobile_app_purchases_presentation.pdf
+ - [Exploratory data analysis](https://github.com/ecalkins/mobile-app-purchases/blob/master/eda_events%2Bsessions.ipynb)
+ - [Target label creation](https://github.com/ecalkins/mobile-app-purchases/blob/master/compute_target.ipynb)
+ - [Final ML modeling notebook](https://github.com/ecalkins/mobile-app-purchases/blob/master/ml_models_final.ipynb_
+ - [Seminar presentation](https://github.com/ecalkins/mobile-app-purchases/blob/master/mobile_app_purchases_presentation.pdf)
